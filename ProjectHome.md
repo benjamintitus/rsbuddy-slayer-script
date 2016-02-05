@@ -1,0 +1,1 @@
+Feel free to download and edit the code, than submit it for commit, I'll review all codes before commiting, and if a code is 'ugly', it'll not be commited.
